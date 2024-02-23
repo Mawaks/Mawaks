@@ -1,4 +1,5 @@
 👋 I'm Franklin Mawira!
+
 👨🏽‍💻 About Me
 - 👀 I’m currently working as a Data Analyst.
 - 🌱 I’m constantly learning and improving my skills.
