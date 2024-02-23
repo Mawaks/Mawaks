@@ -9,6 +9,7 @@
 - 📫 HHow to reach me: LinkedIn: https://www.linkedin.com/in/franklin-mawira-569aa01ab/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new places.
+
 🛠️ Skills
 - Data Analysis
 - Excel
@@ -16,6 +17,7 @@
 - Python
 - Tableau
 - Power BI - Data Visualization
+
 📚 Latest Blog Posts
 - How to Excel at Data Analysis
 - The Power of SQL in Data Analysis
